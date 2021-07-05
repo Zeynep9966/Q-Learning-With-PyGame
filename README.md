@@ -25,6 +25,7 @@
 	olarak belirlenir. Hedef duruma ulaşılanakadar iterasyon devam eder. Q matrisi aşağıdaki formüle göre güncellenir:
 	Q(durum, aksiyon) = R(durum, aksiyon)+γ×Max{Q(sonraki durumlar, tüm aksiyonlar)} γ
 	ogrenme katsayısıdır ve 0 ile 1 arasında bir değer alır.
+        
  2-) Proje	
 	Burada robotun Q learning algoritması kullanarak engel sütunlarından kaçması ve beyaz alanlardan
 	geçerek doğru yol alması gerekiyor. 
