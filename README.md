@@ -1,5 +1,6 @@
 # Q-Learning-With-PyGame
  1-) Giriş
+ 
 	Pekiştirmeli öğrenme (reinforcement learning), öznelerin (agent) bir görevi en yüksek
 	kazançla tamamlayabilmek için hangi eylemleri gerçekleştirmeleri gerektigi ile
 	ilgilenen bir makine öğrenmesi tekniğidir. Bu tür öğrenme algoritmaların girdisi
@@ -27,6 +28,7 @@
 	ogrenme katsayısıdır ve 0 ile 1 arasında bir değer alır.
         
  2-) Proje	
+ 
 	Burada robotun Q learning algoritması kullanarak engel sütunlarından kaçması ve beyaz alanlardan
 	geçerek doğru yol alması gerekiyor. 
 	Robotumuz kullanıcının istediği bir kareden başlayıp kırmızı kutulara çarpmadan bitiş kısmına en kısa(maliyetle) yoldan
